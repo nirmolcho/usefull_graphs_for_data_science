@@ -18,8 +18,8 @@ Here we can see a few kinds of graphs:
 9) Text annotation
 10) Colormap and contour figures
 11) bonus - 3D-Figures
-		
-	[Matplotlib.ipynb]
+			
+	[a link] (usefull_graphs_for_data_science/Matplotlib.ipynb)
 	 
 	
 ### 2) seaborn
