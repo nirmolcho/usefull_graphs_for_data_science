@@ -19,7 +19,7 @@ Here we can see a few kinds of graphs:
 	10) Colormap and contour figures
 	11) bonus - 3D-Figures
 	
-	[a link](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Matplotlib.ipynb) 
+	[a link](Matplotlib.ipynb) 
 	
 ### 2) seaborn
 	1) a few different variations of graphs
