@@ -27,7 +27,7 @@ Here we can see a few kinds of graphs:
 2)  Matrix Plots
 3) working with Grid
 4) Regrassions
-		[seaborn notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Seaborn.ipynbb)
+		[seaborn notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Seaborn.ipynb)
 
 
 ### 3) Plotly
