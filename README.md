@@ -18,7 +18,7 @@ Here we can see a few kinds of graphs:
 9) Text annotation
 10) Colormap and contour figures
 11) bonus - 3D-Figures
-			[Mathplotlib notebook](nirmolcho/usefull_graphs_for_data_science/Mathplotlib.ipynb)
+			[Mathplotlib notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Matplotlib.ipynb)
 
 	 
 	
@@ -27,13 +27,13 @@ Here we can see a few kinds of graphs:
 2)  Matrix Plots
 3) working with Grid
 4) Regrassions
-		[Mathplotlib notebook](nirmolcho/usefull_graphs_for_data_science/Mathplotlib.ipynb)
+		[seaborn notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Seaborn.ipynbb)
 
 
 ### 3) Plotly
 1) different graphs variations + 3d models
 2) Geographical Plotting
-		[Mathplotlib notebook](nirmolcho/usefull_graphs_for_data_science/Mathplotlib.ipynb)
+		[Plotly notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Plotly.ipynb)
 
 
 #### note: unfortunately, out of the more excellent graphs in Ploty cost money, so I didn’t unlock them yet; I may be adding in the Further
