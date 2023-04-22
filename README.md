@@ -18,12 +18,14 @@ Here we can see a few kinds of graphs:
 	9) Text annotation
 	10) Colormap and contour figures
 	11) bonus - 3D-Figures
-
+	
+	
 ### 2) seaborn
 	1) a few different variations of graphs
 	2)  Matrix Plots
 	3) working with Grid
 	4) Regrassions
+
 
 ### 3) Plotly
 
