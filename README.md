@@ -4,9 +4,7 @@
 
 We got here three main notebooks for future use.
 
-### 1) [Mathplotlib notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Matplotlib.ipynb)
-
-Here we can see a few kinds of graphs:
+### [Mathplotlib notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Matplotlib.ipynb)
 1) regular graphs
 2) Multi-plot
 3) Object-Oriented
@@ -22,7 +20,7 @@ Here we can see a few kinds of graphs:
 
 	 
 	
-### 2) [seaborn notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Seaborn.ipynb)
+### [seaborn notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Seaborn.ipynb)
 
 1) a few different variations of graphs
 2)  Matrix Plots
@@ -30,7 +28,7 @@ Here we can see a few kinds of graphs:
 4) Regrassions
 		
 
-### 3) [Plotly notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Plotly.ipynb)
+### [Plotly notebook](https://github.com/nirmolcho/usefull_graphs_for_data_science/blob/main/Plotly.ipynb)
 1) different graphs variations + 3d models
 2) Geographical Plotting
 		
